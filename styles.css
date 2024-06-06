@@ -1,9 +1,17 @@
+* {
+    
+}
+
 h1 {
     text-align: center;
     border: 2px solid black;
     font-size: 2cm;
     width: 90%;
     margin: 0 auto;
+}
+
+h2 {
+    color: red;
 }
 
  #outputWrapper {
@@ -16,6 +24,7 @@ h1 {
     border: 2px solid black;
     width: 75%;
     margin: 0 auto;
+    background-color: rgb(29, 173, 125);
  }
 
 p  {
@@ -30,5 +39,6 @@ p  {
     padding-left: 100px;
     padding-right: 100px;
     margin: 0 5px;
+    background-color: rgb(70, 127, 177);
 
   }
