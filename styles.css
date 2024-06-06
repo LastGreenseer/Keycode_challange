@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    border: 2px solid black;
+}
+
+ #outputWrapper {
+    justify-content: flex;
+    border: 2px solid black
+ }
+
+p  {
+    justify-content: flex;
+  }
+
+  .output {
+    justify-content: flex;
+    border:1px solid gray;
+  }
